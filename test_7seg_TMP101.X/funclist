@@ -1,0 +1,20 @@
+_delay: CODE, 29184 0 66
+_i2c_SendAddress: CODE, 29090 0 44
+_i2c_Open: CODE, 29134 0 50
+_i2c_Restart: CODE, 29924 0 146
+_showDizaine: CODE, 29026 0 32
+_i2c_GetByte: CODE, 29250 0 70
+_i2c_ReadAcknowledge: CODE, 29782 0 142
+_i2c_GetString: CODE, 29404 0 114
+_main: CODE, 31708 0 1060
+_i2c_ReadByte: CODE, 30250 0 256
+_i2c_SendAcknowledge: CODE, 29518 0 126
+_i2c_WaitForSCL: CODE, 29320 0 84
+___awdiv: CODE, 31362 0 346
+_showUnite: CODE, 29058 0 32
+_i2c_SendByte: CODE, 30772 0 290
+_compter: CODE, 30070 0 180
+_showNumber: CODE, 31062 0 300
+_i2c_LectureTemperature: CODE, 30506 0 266
+_cercle: CODE, 29644 0 138
+Total: 3742
